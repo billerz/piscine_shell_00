@@ -1,0 +1,5 @@
+Credentials cache: API:E3157B3A-8153-4EAF-9288-B642FD62A221
+        Principal: npatthan@42BANGKOK.COM
+
+  Issued                Expires               Principal
+Oct 18 20:15:18 2021  Oct 19 06:15:12 2021  krbtgt/42BANGKOK.COM@42BANGKOK.COM
